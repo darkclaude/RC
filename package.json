@@ -1,0 +1,30 @@
+{
+  "name": "rc",
+  "version": "1.0.0",
+  "description": "Cross Platform Client for MDX Autonomous Plane",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/parser-readline": "^2.0.2",
+    "cors": "^2.8.5",
+    "electron": "^4.1.0",
+    "electron-reload": "^1.4.0",
+    "express": "^4.16.4",
+    "parse-json": "^4.0.0",
+    "random-item": "^1.0.0",
+    "randomstring": "^1.1.5",
+    "restler": "^3.4.0",
+    "serialport": "^7.1.4",
+    "serve-static": "^1.13.2",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.8.4"
+  }
+}

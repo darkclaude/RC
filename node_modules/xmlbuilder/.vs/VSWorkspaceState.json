@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\test",
+    "\\test\\basic",
+    "\\test\\callback",
+    "\\test\\dom",
+    "\\test\\guards",
+    "\\test\\issues",
+    "\\test\\xpath"
+  ],
+  "SelectedNode": "\\src\\DocumentPosition.coffee",
+  "PreviewInSolutionExplorer": false
+}
